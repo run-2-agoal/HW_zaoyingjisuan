@@ -1,0 +1,1000 @@
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-6]-20*LOG10(R[-1]C/R[-2]C[-6])+1),(R[-3]C[-6]-20*LOG10(R[-1]C/R[-2]C[-6])+2))))"><Data
+      ss:Type="Number">9.1781748188863723</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-7]-20*LOG10(R[-1]C/R[-2]C[-7])+1),(R[-3]C[-7]-20*LOG10(R[-1]C/R[-2]C[-7])+2))))"><Data
+      ss:Type="Number">6.6794000867203742</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-8]-20*LOG10(R[-1]C/R[-2]C[-8])+1),(R[-3]C[-8]-20*LOG10(R[-1]C/R[-2]C[-8])+2))))"><Data
+      ss:Type="Number">3.1575749056067508</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-9]-20*LOG10(R[-1]C/R[-2]C[-9])+1),(R[-3]C[-9]-20*LOG10(R[-1]C/R[-2]C[-9])+2))))"><Data
+      ss:Type="Number">26.939077937424091</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="13" ss:MergeDown="4" ss:StyleID="m637200224"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">NOTE：&#10;(1)噪声在空气中的衰减，从原理上包括四部分：几何衰减、空气吸收、屏障衰减和附加衰减。点声源的几何衰减仅由距离决定，衰减量                ，即距离每增加1倍，衰减6dB；&#10;(2)空气吸收量取决于噪声频率和空气条件，频率越高吸收量越大，通信设备气动噪声主要能量通常分布在250Hz至4kHz，空气吸收量相对几何衰减量几乎可以忽略；&#10;(3)屏障衰减指墙体等声屏障的作用，附加衰减指特殊天气影响和柔软地面吸声所造成的衰减，在距离小于50m时影响均可忽略不计；&#10;(4)几何衰减会受到地面反射和墙面反射的影响，设r<Font
+       html:Size="8">d</Font><Font>为直射声程，r</Font><Font html:Size="8">r</Font><Font>为反射声程，如右图所示：&#10;地面反射引起的预估点声压级增量可近似为：&#10;当r</Font><Font
+       html:Size="8">r</Font><Font>/r</Font><Font html:Size="8">d</Font><Font>≈1时，ΔLr=3dBA；当r</Font><Font
+       html:Size="8">r</Font><Font>/r</Font><Font html:Size="8">d</Font><Font>≈1.4时，ΔLr=2dBA；&#10;当r</Font><Font
+       html:Size="8">r</Font><Font>/r</Font><Font html:Size="8">d</Font><Font>≈2时，ΔLr=1dBA；当r</Font><Font
+       html:Size="8">r</Font><Font>/r</Font><Font html:Size="8">d</Font><Font>&gt;2.5时，ΔLr=0dBA&#10;(5)本计算参考点声源几何衰减公式，并附加地面反射的影响，给出半自由场噪声衰减理论计算工具&#10;</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375" ss:Span="1"/>
+   <Row ss:Index="11" ss:AutoFitHeight="0" ss:Height="41.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="35.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="2" ss:StyleID="s225"><Data ss:Type="String">附：</Data></Cell>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s226"/>
+    <Cell ss:StyleID="s227"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s228"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s230"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5">
+    <Cell ss:Index="2" ss:StyleID="s228"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s230"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="13.5">
+    <Cell ss:Index="2" ss:StyleID="s231"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s232"/>
+    <Cell ss:StyleID="s233"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51181102362204722" x:Data="&amp;L&amp;C&amp;F&amp;R文档密级"/>
+    <Footer x:Margin="0.51181102362204722"
+     x:Data="&amp;L&amp;D&amp;C华为保密信息,未经授权禁止扩散&amp;R第&amp;P页，共&amp;N页"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0.74803149606299213"
+     x:Right="0.74803149606299213" x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="隔声量估算">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="22" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s17" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="60.75"/>
+   <Column ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="120.75"/>
+   <Column ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="93.75"/>
+   <Column ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="90"/>
+   <Column ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="93.75"/>
+   <Column ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="91.5"/>
+   <Column ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="123.75"/>
+   <Column ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="63.75" ss:Span="1"/>
+   <Column ss:Index="12" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="120"/>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375"/>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="3" ss:StyleID="m637201576"><Data
+      ss:Type="String">单层板结构隔声量估算</Data></Cell>
+    <Cell ss:StyleID="s176"/>
+    <Cell ss:StyleID="s53"/>
+    <Cell ss:Index="12" ss:MergeDown="1" ss:StyleID="m637201536"><Data
+      ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s177"><Data ss:Type="String">材料密度(kg/m³)</Data></Cell>
+    <Cell ss:StyleID="s178"><Data ss:Type="Number">7900</Data></Cell>
+    <Cell ss:StyleID="s177"><Data ss:Type="String">材料厚度(mm)</Data></Cell>
+    <Cell ss:StyleID="s179"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s207"><Data ss:Type="String">面密度(kg/m²)</Data></Cell>
+    <Cell ss:StyleID="s208" ss:Formula="=R[-1]C*R[-1]C[2]*0.001"><Data
+      ss:Type="Number">7.9</Data></Cell>
+    <Cell ss:StyleID="s207"><Data ss:Type="String">隔声量(dB)</Data></Cell>
+    <Cell ss:StyleID="s209"
+     ss:Formula="=IF(RC[-2]=0,0,(IF(RC[-2]&lt;200,(13.5*LOG10(RC[-2])+14),(16*LOG10(RC[-2])+8))))"><Data
+      ss:Type="Number">26.117965732420959</Data></Cell>
+    <Cell ss:StyleID="s180"/>
+    <Cell ss:Index="12" ss:StyleID="s64"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="m637201516"><Data
+      ss:Type="String">NOTE：&#10;本计算出于方便使用考虑，做了适当简化，仅按照隔声质量定律估算，未考虑声源在劲度控制区和吻合效应控制区的频率段的隔振减弱效应，因而实际隔声量通常略低于该计算结果。</Data></Cell>
+    <Cell ss:StyleID="s210"/>
+    <Cell ss:Index="12" ss:StyleID="s65"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="12" ss:StyleID="s66"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s181"><Data ss:Type="String">默认参数：</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">空气密度（kg/m³）</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">1.18</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">空气中声速（m/s）</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">344</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s67"><Data ss:Type="String">红色部分：查表输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeDown="5" ss:StyleID="m637201596"><Data
+      ss:Type="String">部分材料密度（kg/m³）：</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">钢/铁</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">7900</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">铜</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">9000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="3" ss:StyleID="s181"><Data ss:Type="String">铝</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">2700</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">铅</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">11200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="3" ss:StyleID="s181"><Data ss:Type="String">玻璃</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">2500</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">钢筋混凝土</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">2300</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="3" ss:StyleID="s181"><Data ss:Type="String">轻质混凝土</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">1300</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">砖</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">1900</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s181"><Data ss:Type="String">硬质板</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">800</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">胶合板</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">600</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s181"><Data ss:Type="String">氯化乙烯板</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">1400</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">氯乙烯泡沫</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="Number">77</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s182"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeDown="1" ss:StyleID="m637201556"><Data
+      ss:Type="String">常见场景实际隔声性能(dB)：</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">普通木质门</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">15~18</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">普通钢质门</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">20~22</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s181"><Data ss:Type="String">铝合金推拉窗</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">18~20</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">推拉双层窗</Data></Cell>
+    <Cell ss:StyleID="s181"><Data ss:Type="String">25~30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:MergeDown="1" ss:StyleID="m637201496"><Data
+      ss:Type="String">说明：上表为无明显漏声条件下的经验值（参考《噪声与振动工程手册》），孔洞、缝隙对隔声性能影响很大，经密封处理可提高隔声性能使其接近质量定律</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+    <Cell ss:StyleID="s183"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+    <Cell ss:StyleID="s184"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51181102362204722" x:Data="&amp;L&amp;C&amp;F&amp;R文档密级"/>
+    <Footer x:Margin="0.51181102362204722"
+     x:Data="&amp;L&amp;D&amp;C华为保密信息,未经授权禁止扩散&amp;R第&amp;P页，共&amp;N页"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0.74803149606299213"
+     x:Right="0.74803149606299213" x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="降噪模块消声估算">
+  <Table ss:ExpandedColumnCount="17" ss:ExpandedRowCount="29" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s17" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:Index="2" ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="50.25"/>
+   <Column ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="90.75"/>
+   <Column ss:StyleID="s52" ss:AutoFitWidth="0" ss:Width="63.75" ss:Span="3"/>
+   <Column ss:Index="8" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="62.25"/>
+   <Column ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="87.75"/>
+   <Column ss:Index="11" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="63"/>
+   <Row ss:Index="2" ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="s674"><Data ss:Type="String">矩形通道消声量计算</Data></Cell>
+    <Cell ss:StyleID="s215"/>
+    <Cell ss:StyleID="s216"/>
+    <Cell ss:StyleID="s217"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m637179540"><Data ss:Type="String">工具使用说明</Data></Cell>
+    <Cell ss:StyleID="s214"><Data ss:Type="String">附：典型消声通道进出口形式与局部阻力系数</Data></Cell>
+    <Cell ss:StyleID="s214"/>
+    <Cell ss:StyleID="s214"/>
+    <Cell ss:StyleID="s214"/>
+    <Cell ss:StyleID="s214"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">矩形通道长a（m）：</Data></Cell>
+    <Cell ss:StyleID="s185"><Data ss:Type="Number">0.08</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">矩形通道宽b（m）：</Data></Cell>
+    <Cell ss:StyleID="s223"><Data ss:Type="Number">0.08</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m637179560"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">通道有效长度l(m)：</Data></Cell>
+    <Cell ss:StyleID="s185"><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s682"><Data ss:Type="String">消声系数：</Data></Cell>
+    <Cell ss:StyleID="s224"><Data ss:Type="Number">0.55000000000000004</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m637179580"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="m637201924"><Data
+      ss:Type="String">说明：消声系数参考吸声材料系数查询表</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">消声量Φ(α):</Data></Cell>
+    <Cell ss:StyleID="s260"
+     ss:Formula="=2*(R[-2]C[-3]+R[-2]C)/R[-2]C[-3]/R[-2]C*R[-1]C[-3]*R[-1]C"><Data
+      ss:Type="Number">2.75</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m637179600"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="s184"><Data ss:Type="String">阻力计算</Data></Cell>
+    <Cell ss:StyleID="s220"/>
+    <Cell ss:StyleID="s221"/>
+    <Cell ss:StyleID="s222"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="m637202500"><Data ss:Type="String">红色部分：参考输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">流速（m/s）</Data></Cell>
+    <Cell ss:StyleID="s185"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">沿程阻力（Pa）</Data></Cell>
+    <Cell ss:StyleID="s187"
+     ss:Formula="=10*RC[5]*R[-3]C[-3]/(2*R[-4]C[-3]*R[-4]C/(R[-4]C[-3]+R[-4]C))*RC[3]*RC[-3]*RC[-3]/2/R[1]C[3]"><Data
+      ss:Type="Number">1.793915449566408</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m637179620"><Data ss:Type="String">默认参数：</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">空气密度ρ(kg/m³)</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=1.29*273/(R[2]C+273)*R[1]C[2]/100000"><Data
+      ss:Type="Number">1.1251437699680511</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">摩阻系数</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">0.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">局部阻力系数ξ</Data></Cell>
+    <Cell ss:StyleID="s186"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">局部阻力（Pa）</Data></Cell>
+    <Cell ss:StyleID="s187"
+     ss:Formula="=10*RC[-3]*R[-1]C[3]*R[-1]C[-3]*R[-1]C[-3]/2/RC[3]"><Data
+      ss:Type="Number">14.351323596531264</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s76"><Data ss:Type="String">重力加速度g(m/s²)</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">9.8000000000000007</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">大气压强(Pa)</Data></Cell>
+    <Cell ss:StyleID="s115"><Data ss:Type="Number">100000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="m637202560"><Data
+      ss:Type="String">说明：局部阻力系数ξ参见右侧表2</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">总阻力（Pa）</Data></Cell>
+    <Cell ss:StyleID="s188" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">16.145239046097672</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s76"><Data ss:Type="String">温度（ºC）</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s189"/>
+    <Cell ss:StyleID="s189"/>
+    <Cell ss:StyleID="s189"/>
+    <Cell ss:StyleID="s189"/>
+    <Cell ss:StyleID="s189"/>
+    <Cell ss:StyleID="s189"/>
+    <Cell ss:StyleID="s215"/>
+    <Cell ss:StyleID="s216"/>
+    <Cell ss:StyleID="s217"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="s674"><Data ss:Type="String">环形通道消声量</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">圆形通道外径D（m）：</Data></Cell>
+    <Cell ss:StyleID="s185"><Data ss:Type="Number">0.12</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">圆形通道内径d（m）：</Data></Cell>
+    <Cell ss:StyleID="s223"><Data ss:Type="Number">0.06</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+    <Cell ss:Index="16" ss:StyleID="s52"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">通道有效长度l(m)：</Data></Cell>
+    <Cell ss:StyleID="s185"><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s674"><Data ss:Type="String">消声系数：</Data></Cell>
+    <Cell ss:StyleID="s224"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="m637203256"><Data
+      ss:Type="String">说明：吸声系数参考吸声材料系数查询表</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">消声量Φ(α):</Data></Cell>
+    <Cell ss:StyleID="s188"
+     ss:Formula="=4*(R[-2]C[-3]+R[-2]C)/(R[-2]C[-3]*R[-2]C[-3]-R[-2]C*R[-2]C)*R[-1]C[-3]*R[-1]C"><Data
+      ss:Type="Number">6.6666666666666661</Data></Cell>
+    <Cell ss:StyleID="s220"/>
+    <Cell ss:StyleID="s221"/>
+    <Cell ss:StyleID="s222"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:StyleID="m637202700"><Data
+      ss:Type="String">阻力计算</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="m637179520"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">表1：消声系数φ(α<Font html:Size="8">0</Font><Font>)与吸声系数α</Font><Font
+       html:Size="8">0</Font><Font>的关系</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">流速（m/s）</Data></Cell>
+    <Cell ss:StyleID="s185"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">沿程阻力（Pa）</Data></Cell>
+    <Cell ss:StyleID="s187"
+     ss:Formula="=10*R[-9]C[5]*R[-3]C[-3]/(R[-4]C[-3]-R[-4]C)*R[-9]C[3]*RC[-3]*RC[-3]/2/R[-8]C[3]"><Data
+      ss:Type="Number">4.7837745321770884</Data></Cell>
+    <Cell ss:StyleID="s215"/>
+    <Cell ss:StyleID="s216"/>
+    <Cell ss:StyleID="s216"/>
+    <Cell ss:StyleID="s217"/>
+    <Cell ss:Index="14" ss:StyleID="s52"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">局部阻力系数ξ</Data></Cell>
+    <Cell ss:StyleID="s186"><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">局部阻力（Pa）</Data></Cell>
+    <Cell ss:StyleID="s187"
+     ss:Formula="=10*RC[-3]*R[-10]C[3]*R[-1]C[-3]*R[-1]C[-3]/2/R[-9]C[3]"><Data
+      ss:Type="Number">7.1756617982656321</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="m637203136"><Data
+      ss:Type="String">说明：局部阻力系数ξ参见右侧附表</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s681"><Data ss:Type="String">总阻力（Pa）</Data></Cell>
+    <Cell ss:StyleID="s187" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">11.95943633044272</Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="5" ss:MergeDown="4" ss:StyleID="m637202480"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">NOTE:&#10;(1)消声器中计算消声量的公式为：&#10;&#10;其中，φ(α<Font
+       html:Size="8">0</Font><Font>)是与材料相关的消声系数，与材料吸声系数α</Font><Font html:Size="8">0</Font><Font>的关系可查表1；&#10;(2)消声设计需要考虑附加的阻力，总阻力为沿程阻力和局部阻力之和，&#10;&#10;沿程阻力                        ，局部阻力&#10;&#10;(3)吸声与阻力的理论计算与实测结果均存在一定偏差，仅做设计参考</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="8" ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="8" ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="8" ss:StyleID="s218"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s219"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="8" ss:StyleID="s220"/>
+    <Cell ss:StyleID="s221"/>
+    <Cell ss:StyleID="s221"/>
+    <Cell ss:StyleID="s222"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625" ss:Span="4"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51181102362204722" x:Data="&amp;L&amp;C&amp;F&amp;R文档密级"/>
+    <Footer x:Margin="0.51181102362204722"
+     x:Data="&amp;L&amp;D&amp;C华为保密信息,未经授权禁止扩散&amp;R第&amp;P页，共&amp;N页"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0.74803149606299213"
+     x:Right="0.74803149606299213" x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>11</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="附；吸声材料系数查询">
+  <Table ss:ExpandedColumnCount="28" ss:ExpandedRowCount="335" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s19" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:StyleID="s82"/>
+   <Column ss:StyleID="s79" ss:Span="15"/>
+   <Row ss:Height="15" ss:StyleID="s77">
+    <Cell ss:MergeDown="1" ss:StyleID="s726"><Data ss:Type="String">属类</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m545766492"><Data ss:Type="String">序号</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m545766512"><Data ss:Type="String">材料名称</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m545766532"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">厚度</Font><Font
+       html:Face="FrutigerNext LT Regular" x:Family="Swiss" html:Size="12">(mm)</Font></ss:Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m545766552"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">密度</Font><Font
+       html:Face="FrutigerNext LT Regular" x:Family="Swiss" html:Size="12">(kg/m3)</Font></ss:Data></Cell>
+    <Cell ss:MergeAcross="5" ss:StyleID="m545766572"><Data ss:Type="String">各频率的吸声系数a0</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="m545766272"><Data
+      ss:Type="String">数据来源/测试方法</Data></Cell>
+    <Cell ss:MergeAcross="13" ss:StyleID="s84"><Data ss:Type="String">应用特性</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s77">
+    <Cell ss:Index="6" ss:StyleID="s83"><Data ss:Type="Number">125</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">250</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">1000</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">2000</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">4000</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s84"><Data ss:Type="String">固定方式</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">环境适应性</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">环保</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">老化特性</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">防霉变特性</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">热特性</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">阻燃等级</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">可维护性</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">防尘</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">防水/防潮</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">防蛀</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">防静电</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">防冻</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="String">成本</Data></Cell>
+    <Cell ss:MergeDown="20" ss:StyleID="s806"/>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:MergeDown="59" ss:StyleID="s779"><Data ss:Type="String">泡沫玻璃类</Data></Cell>
+    <Cell ss:MergeDown="19" ss:StyleID="s83"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:MergeDown="19" ss:StyleID="s84"><Data ss:Type="String">聚氨酯泡沫</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">7.0000000000000007E-2</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.14000000000000001</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.47</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.88</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.77</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s102"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">《噪声控制技术》</Font><Font
+       html:Face="FrutigerNext LT Regular" x:Family="Swiss" html:Size="12">(</Font><Font
+       html:Color="#000000">李耀中</Font><Font html:Face="FrutigerNext LT Regular"
+       x:Family="Swiss" html:Size="12">)</Font></ss:Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m545766412"><Data ss:Type="String">驻波管法</Data></Cell>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766432"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766452"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766652"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545765216"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545765236"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766192"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766212"><Data ss:Type="String">HF-1(泡沫棉中的最高等级)</Data></Cell>
+    <Cell ss:MergeDown="19" ss:StyleID="m545765596"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766232"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766252"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545765256"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766592"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766612"/>
+    <Cell ss:MergeDown="19" ss:StyleID="m545766632"/>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.15</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.84</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.68</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.82</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.82</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s90"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.95</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.98</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.85</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s87"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">7.0000000000000007E-2</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.14000000000000001</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.47</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.88</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.77</Data></Cell>
+    <Cell ss:MergeDown="4" ss:StyleID="s102"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">《噪声控制与应用实例》</Font><Font
+       html:Face="FrutigerNext LT Regular" x:Family="Swiss" html:Size="12">(</Font><Font
+       html:Color="#000000">周新祥</Font><Font html:Face="FrutigerNext LT Regular"
+       x:Family="Swiss" html:Size="12">)</Font></ss:Data></Cell>
+    <Cell ss:MergeDown="4" ss:StyleID="s766"><Data ss:Type="String">驻波管法</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.19</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.36</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.8</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.15</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.35</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.84</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.68</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.82</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.82</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.11</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.25</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.52</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.87</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.77</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.81</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s92"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.95</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.98</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.85</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s87"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.05</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.19</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.38</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.76</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.82</Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="s102"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">《噪声控制与应用实例》</Font><Font
+       html:Face="FrutigerNext LT Regular" x:Family="Swiss" html:Size="12">(</Font><Font
+       html:Color="#000000">周新祥</Font><Font html:Face="FrutigerNext LT Regular"
+       x:Family="Swiss" html:Size="12">)</Font></ss:Data></Cell>
+    <Cell ss:MergeDown="5" ss:StyleID="m545765676"><Data ss:Type="String">驻波管法</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">7.0000000000000007E-2</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.16</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.41</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.87</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.72</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.09</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.25</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.65</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.95</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.73</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.79</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.11</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.31</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.91</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.86</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.81</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.11</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.21</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.71</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.65</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.64</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.65</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s92"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.32</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.62</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.68</Data></Cell>
+    <Cell ss:StyleID="s93"><Data ss:Type="Number">0.65</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s87"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.05</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.19</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.31</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.38</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="Number">0.44</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="s773"><Data ss:Type="String">国志汇富</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m545764748"><Data ss:Type="String">驻波管法</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s94"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">7.0000000000000007E-2</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.13</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.28999999999999998</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.46</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.51</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.55000000000000004</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s90"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s90"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.11</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.22</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.55000000000000004</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.75</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.67</Data></Cell>
+    <Cell ss:StyleID="s91"><Data ss:Type="Number">0.84</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s94"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.19</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.35</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.54</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.63</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.7</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m545765416"><Data ss:Type="String">国志汇富</Data></Cell>
+    <Cell ss:MergeDown="2" ss:StyleID="m545765436"><Data ss:Type="String">混响室法</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s94"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.14000000000000001</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.25</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.51</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.72</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.77</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.8</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.21</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.41</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.94</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">0.9</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="Number">1.01</Data></Cell>
+   </Row>
+   <Row ss:Height="57.75" ss:StyleID="s56">
+    <Cell ss:Index="2" ss:StyleID="s86"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">聚胺甲酸酯</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.11</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.13</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.27</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.69</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.98</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="Number">0.79</Data></Cell>
+    <Cell ss:StyleID="s97"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">《现代声学理论基础》</Font><Font
+       html:Face="FrutigerNext LT Regular" x:Family="Swiss" html:Size="12">(</Font><Font
+       html:Color="#000000">马大猷</Font><Font html:Face="FrutigerNext LT Regular"
+       x:Family="Swiss" html:Size="12">)</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">驻波管法</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="2" ss:MergeDown="13" ss:StyleID="m545765456"><Data
+      ss:Type="Number">3</Data></Cell>
+    <Cell ss:MergeDown="6" ss:StyleID="m545765476"><Data ss:Type="String">三聚氰胺泡沫(巴斯夫)</Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">1.7733990147783301E-2</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">6.5024630541871895E-2</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.114285714285714</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.22660098522167499</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.47290640394088701</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.798029556650246</Data></Cell>
+    <Cell ss:MergeDown="6" ss:StyleID="m545765496"><Data ss:Type="String">黎宝生</Data></Cell>
+    <Cell ss:MergeDown="6" ss:StyleID="m545765516"><Data ss:Type="String">？</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">2.5615763546797999E-2</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">9.4581280788177305E-2</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.20098522167487701</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.47290640394088701</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.76650246305418701</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.89261083743842395</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">3.7438423645320199E-2</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.126108374384236</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.32512315270935999</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.68965517241379304</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.92019704433497596</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.89261083743842395</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">51</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">5.1231527093596102E-2</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.18522167487684699</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.518226600985222</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.87684729064039402</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.94384236453201997</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.92610837438423699</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">61</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">7.2906403940886697E-2</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.27389162561576402</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.69950738916256205</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.93990147783251199</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.90049261083743803</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.97339901477832502</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s56">
+    <Cell ss:Index="4" ss:StyleID="s83"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.114285714285714</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.43152709359605901</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.84137931034482805</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.98916256157635496</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.92019704433497596</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="Number">0.98325123152709404</Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
+    <Cell ss:StyleID="s57"/>
