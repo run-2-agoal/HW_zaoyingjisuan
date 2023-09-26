@@ -1,0 +1,1000 @@
+    <Cell ss:StyleID="s34"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s239"><Data ss:Type="String">风扇框1系统声功率</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=R[-2]C[2]+R[-1]C+R[-1]C[2]"><Data
+      ss:Type="Number">54.316088177257882</Data></Cell>
+    <Cell ss:StyleID="s239"><Data ss:Type="String">风扇框2系统声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=R[-2]C[4]+R[-1]C[2]+R[-1]C[4]"><Data
+      ss:Type="Number">21.010299956639813</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">系统声功率</Data></Cell>
+    <Cell ss:StyleID="s240"
+     ss:Formula="=10*LOG10(POWER(10,0.1*RC[-4])+POWER(10,0.1*RC[-2]))"><Data
+      ss:Type="Number">54.318116345961315</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">宣称声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=RC[-2]+3"><Data ss:Type="Number">57.318116345961315</Data></Cell>
+    <Cell ss:StyleID="s34"/>
+   </Row>
+   <Row ss:Index="19" ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:Index="2" ss:MergeAcross="7" ss:StyleID="m637193356"><Data
+      ss:Type="String">系统噪声估算（3）——输入风扇背压下某转速声功率，输出风扇各转速下系统声功率</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="2" ss:StyleID="s250"><Data ss:Type="String">单风扇1背压下某转速声功率</Data></Cell>
+    <Cell ss:StyleID="s252"><Data ss:Type="Number">52.3</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">风扇转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">3000</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">单风扇2背压下某转速声功率</Data></Cell>
+    <Cell ss:StyleID="s252"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">风扇转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5">
+    <Cell ss:Index="2" ss:StyleID="s250"><Data ss:Type="String">常温调速后风扇1转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">4200</Data></Cell>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">风扇1数量</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">常温调速后风扇2转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇2数量</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">单风扇1背压下调速声功率</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=R[-2]C+50*LOG10(R[-1]C/R[-2]C[2])"><Data
+      ss:Type="Number">59.606401783911899</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇1背压下叠加声功率</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=10*LOG10(R[-1]C)+RC[-2]"><Data
+      ss:Type="Number">75.169426791584769</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">单风扇2背压下调速声功率</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=R[-2]C+50*LOG10(R[-1]C/R[-2]C[2])"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">风扇2背压下叠加声功率</Data></Cell>
+    <Cell ss:StyleID="s242" ss:Formula="=10*LOG10(R[-1]C)+RC[-2]"><Data
+      ss:Type="Number">3.0102999566398121</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.75">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">风扇1风扇框再生噪声</Data></Cell>
+    <Cell ss:StyleID="s243"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇框1系统再生噪声</Data></Cell>
+    <Cell ss:StyleID="s244"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇2风扇框再生噪声</Data></Cell>
+    <Cell ss:StyleID="s245"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇框2系统再生噪声</Data></Cell>
+    <Cell ss:StyleID="s243"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+    <Cell ss:Index="2" ss:StyleID="s239"><Data ss:Type="String">风扇框1系统声功率</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=R[-2]C[2]+R[-1]C+R[-1]C[2]"><Data
+      ss:Type="Number">82.169426791584769</Data></Cell>
+    <Cell ss:StyleID="s239"><Data ss:Type="String">风扇框2系统声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=R[-2]C[4]+R[-1]C[2]+R[-1]C[4]"><Data
+      ss:Type="Number">8.0102999566398125</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">系统声功率</Data></Cell>
+    <Cell ss:StyleID="s240"
+     ss:Formula="=10*LOG10(POWER(10,0.1*RC[-4])+POWER(10,0.1*RC[-2]))"><Data
+      ss:Type="Number">82.169426958260203</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">宣称声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=RC[-2]+3"><Data ss:Type="Number">85.169426958260203</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>200</HorizontalResolution>
+    <VerticalResolution>200</VerticalResolution>
+   </Print>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="风扇调速噪声计算">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s17" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:Index="2" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="93.75"
+    ss:Span="6"/>
+   <Column ss:Index="9" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="123.75"
+    ss:Span="2"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s116"/>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">风扇实际转速</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">噪声值dBA</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s591"><Data ss:Type="String">风扇噪声与转速的理论公式：</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+    <Cell ss:StyleID="s193"/>
+    <Cell ss:StyleID="s194"/>
+    <Cell ss:MergeDown="1" ss:StyleID="m637201228"><Data ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s116"><Data ss:Type="String">调速前转速</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">6000</Data></Cell>
+    <Cell ss:StyleID="s118"><Data ss:Type="Number">43.5</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入风扇全速下噪声值，可为声功率亦可为声压级。</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s116"><Data ss:Type="String">调速后转速</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">3530</Data></Cell>
+    <Cell ss:StyleID="s254" ss:Formula="=R[-1]C+50*LOG10(RC[-1]/R[-1]C[-1])"><Data
+      ss:Type="Number">31.981172750208948</Data></Cell>
+    <Cell ss:StyleID="s198"/>
+    <Cell ss:StyleID="s199"/>
+    <Cell ss:StyleID="s199"/>
+    <Cell ss:StyleID="s199"/>
+    <Cell ss:StyleID="s200"/>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="m637201168"><Data
+      ss:Type="String">风扇调速噪声降低量</Data></Cell>
+    <Cell ss:StyleID="s255" ss:Formula="=R[-2]C-R[-1]C"><Data ss:Type="Number">11.518827249791052</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:MergeDown="13" ss:StyleID="m637201288"><Data
+      ss:Type="String">粗略估算参考：</Data></Cell>
+    <Cell ss:StyleID="s201"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:MergeDown="2" ss:StyleID="m637201268"><Data
+      ss:Type="String">NOTE：&#10;   （1）按照风扇噪声与其转速之间的变化规律给出&#10;   （2）风扇框使用该公式推算，会由于结构再生噪声随转速增加产生变化，而存在一定偏差</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s202"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="10" ss:StyleID="s213"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s191"/>
+    <Cell ss:StyleID="s191"/>
+    <Cell ss:StyleID="s191"/>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s116"/>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">风扇转速比</Data></Cell>
+    <Cell ss:StyleID="s119"><Data ss:Type="String">噪声值dBA</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s257"><Data ss:Type="String">调速前转速</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.3</Data></Cell>
+    <Cell ss:StyleID="s253"><Data ss:Type="Number">72</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;输入风扇全速下噪声值，可为声功率亦可为声压级。</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:Index="2" ss:StyleID="s257"><Data ss:Type="String">调速后转速</Data></Cell>
+    <Cell ss:StyleID="s120"><Data ss:Type="Number">0.35</Data></Cell>
+    <Cell ss:StyleID="s256" ss:Formula="=R[-1]C+50*LOG10(RC[-1]/R[-1]C[-1])"><Data
+      ss:Type="Number">75.347339481530668</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="m637201188"><Data
+      ss:Type="String">风扇调速噪声降低量</Data></Cell>
+    <Cell ss:StyleID="s255" ss:Formula="=R[-2]C-R[-1]C"><Data ss:Type="Number">-3.3473394815306676</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:MergeAcross="2" ss:MergeDown="4" ss:StyleID="m637201208"><Data
+      ss:Type="String">NOTE：&#10;   （1）给出风扇噪声与转速比的变化规律。&#10;   （2）实际手动调速时，由于PWM调速曲线与转速比之间可能不完全相符，用占空比估算可能存在一定偏差</Data></Cell>
+   </Row>
+   <Row ss:Index="18" ss:Height="15"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51181102362204722" x:Data="&amp;L&amp;C&amp;F&amp;R文档密级"/>
+    <Footer x:Margin="0.51181102362204722"
+     x:Data="&amp;L&amp;D&amp;C华为保密信息,未经授权禁止扩散&amp;R第&amp;P页，共&amp;N页"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0.74803149606299213"
+     x:Right="0.74803149606299213" x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+     <ActiveCol>9</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="噪声叠加计算">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s17" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:Index="2" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="75.75"/>
+   <Column ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="51.75" ss:Span="10"/>
+   <Column ss:Index="14" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="118.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s25"/>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">声源种类</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">dBA</Data></Cell>
+    <Cell ss:MergeAcross="7" ss:MergeDown="2" ss:StyleID="m637194668"><Data
+      ss:Type="String">不相干声源叠加计算公式：</Data></Cell>
+    <Cell ss:Index="14" ss:MergeDown="1" ss:StyleID="m637194608"><Data
+      ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeDown="7" ss:StyleID="m637194688"><Data
+      ss:Type="String">声源</Data></Cell>
+    <Cell ss:StyleID="s122"><Data ss:Type="String">声源1</Data></Cell>
+    <Cell ss:StyleID="s149"><Data ss:Type="Number">80.3</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s123"><Data ss:Type="String">声源2</Data></Cell>
+    <Cell ss:StyleID="s150"><Data ss:Type="Number">80.3</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="14" ss:StyleID="s64"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s123"><Data ss:Type="String">声源3</Data></Cell>
+    <Cell ss:StyleID="s151"><Data ss:Type="Number">80.3</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeAcross="7" ss:MergeDown="6" ss:StyleID="m637194648"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">NOTE<Font
+       html:Face="宋体" x:CharSet="134">：&#10;</Font><Font>     </Font><Font
+       html:Face="宋体" x:CharSet="134">（</Font><Font>1</Font><Font html:Face="宋体"
+       x:CharSet="134">）本工具可计算</Font><Font>5</Font><Font html:Face="宋体"
+       x:CharSet="134">种及</Font><Font>5</Font><Font html:Face="宋体" x:CharSet="134">种以下声源的叠加值，若计算更多声源叠加值可采用手工循环输入计算&#10;</Font><Font>     </Font><Font
+       html:Face="宋体" x:CharSet="134">（</Font><Font>2</Font><Font html:Face="宋体"
+       x:CharSet="134">）该</Font><Font>5</Font><Font html:Face="宋体" x:CharSet="134">种声源可为声压级，也可为声功率级</Font></ss:Data></Cell>
+    <Cell ss:Index="14" ss:StyleID="s65"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s124"><Data ss:Type="String">声源4</Data></Cell>
+    <Cell ss:StyleID="s152"><Data ss:Type="Number">80.3</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="14" ss:StyleID="s65"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s121"><Data ss:Type="String">声源5</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="Number">0</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="14" ss:StyleID="s65"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s122"><Data ss:Type="String">声源6</Data></Cell>
+    <Cell ss:StyleID="s152"><Data ss:Type="Number">0</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="14" ss:StyleID="s66"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s123"><Data ss:Type="String">声源7</Data></Cell>
+    <Cell ss:StyleID="s152"><Data ss:Type="Number">0</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="14" ss:StyleID="s261"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="3" ss:StyleID="s123"><Data ss:Type="String">声源8</Data></Cell>
+    <Cell ss:StyleID="s153"><Data ss:Type="Number">0</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;每个声源的噪声值对应输入</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="14" ss:StyleID="s212"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s26"/>
+    <Cell ss:StyleID="s121"><Data ss:Type="String">叠加值</Data></Cell>
+    <Cell ss:StyleID="s258"
+     ss:Formula="=10*LOG10(POWER(10,0.1*R[-8]C)+POWER(10,0.1*R[-7]C)+POWER(10,0.1*R[-6]C)+POWER(10,0.1*R[-5]C)+POWER(10,0.1*R[-4]C)+POWER(10,0.1*R[-3]C)+POWER(10,0.1*R[-2]C)+POWER(10,0.1*R[-1]C))"><Data
+      ss:Type="Number">86.320599953810344</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;叠加结果输出</Font></ss:Data></Comment></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s24"/>
+    <Cell ss:StyleID="s28"/>
+    <Cell ss:StyleID="s29"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="11" ss:StyleID="m637194708"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">n<Font html:Face="宋体"
+       x:CharSet="134">个相同不相干噪声叠加增量查询表（叠加增量：总叠加效果高于单个风扇噪声的增量值）</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s125"><Data ss:Type="String">相同声源个数</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s126"><Data ss:Type="String">叠加增量dBA</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">3.0102999566398121</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">4.7712125471966242</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">6.0205999132796242</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">6.9897000433601884</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">7.7815125038364368</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">8.4509804001425675</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">9.0308998699194358</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">9.5424250943932485</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">10.413926851582252</Data></Cell>
+    <Cell ss:StyleID="s73" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">10.791812460476249</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s125"><Data ss:Type="String">相同声源个数</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">23</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s126"><Data ss:Type="String">叠加增量dBA</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">11.139433523068368</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">11.46128035678238</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">11.760912590556813</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">12.041199826559248</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">12.304489213782739</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">12.552725051033061</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">12.787536009528289</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">13.010299956639813</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">13.222192947339193</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">13.424226808222063</Data></Cell>
+    <Cell ss:StyleID="s73" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">13.617278360175929</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s127"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s125"><Data ss:Type="String">相同声源个数</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">34</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s126"><Data ss:Type="String">叠加增量dBA</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">13.80211241711606</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">13.979400086720377</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">14.14973347970818</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">14.313637641589875</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">14.471580313422193</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">14.62397997898956</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">14.771212547196624</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">14.913616938342727</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.051499783199061</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.185139398778876</Data></Cell>
+    <Cell ss:StyleID="s73" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.314789170422552</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s128"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s125"><Data ss:Type="String">相同声源个数</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">44</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s126"><Data ss:Type="String">叠加增量dBA</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.440680443502757</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.563025007672874</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.68201724066995</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.797835966168101</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">15.910646070264992</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">16.020599913279622</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">16.127838567197355</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">16.232492903979004</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">16.334684555795864</Data></Cell>
+    <Cell ss:StyleID="s72" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">16.434526764861875</Data></Cell>
+    <Cell ss:StyleID="s73" ss:Formula="=10*LOG10(R[-1]C)"><Data ss:Type="Number">16.532125137753436</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="35.25">
+    <Cell ss:Index="2" ss:MergeAcross="11" ss:StyleID="m637194628"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40">NOTE<Font
+       html:Face="宋体" x:CharSet="134">：（</Font><Font>1</Font><Font html:Face="宋体"
+       x:CharSet="134">）噪声的本质是一种波动，具有频率和相位，当声源间产生相干，会出现相加或相消的现象；&#10;</Font><Font>              </Font><Font
+       html:Face="宋体" x:CharSet="134">（</Font><Font>2</Font><Font html:Face="宋体"
+       x:CharSet="134">）当两相同声源相干涉时，可能相消为</Font><Font>0</Font><Font html:Face="宋体"
+       x:CharSet="134">，或最大增加</Font><Font>6dB</Font><Font html:Face="宋体"
+       x:CharSet="134">，大部分情况为不相干声源，能量直接相加（</Font><Font>+3dB</Font><Font
+       html:Face="宋体" x:CharSet="134">）</Font></ss:Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51181102362204722" x:Data="&amp;L&amp;C&amp;F&amp;R文档密级"/>
+    <Footer x:Margin="0.51181102362204722"
+     x:Data="&amp;L&amp;D&amp;C华为保密信息,未经授权禁止扩散&amp;R第&amp;P页，共&amp;N页"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0.74803149606299213"
+     x:Right="0.74803149606299213" x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>13</ActiveRow>
+     <ActiveCol>13</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="噪声相减">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="10" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Row>
+    <Cell><Data ss:Type="String">噪音目标</Data></Cell>
+    <Cell><Data ss:Type="String">电源噪音</Data></Cell>
+    <Cell><Data ss:Type="String">系统风扇噪音</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">44.2</Data></Cell>
+    <Cell ss:StyleID="s262"
+     ss:Formula="=10*LOG10(POWER(10,RC[-2]/10)-POWER(10,RC[-1]/10))"><Data
+      ss:Type="Number">47.253409893408985</Data></Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell><Data ss:Type="String">系统噪音</Data></Cell>
+    <Cell><Data ss:Type="String">电源噪音</Data></Cell>
+    <Cell><Data ss:Type="String">系统风扇噪音</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="Number">44.2</Data></Cell>
+    <Cell ss:StyleID="s262"
+     ss:Formula="=10*LOG10(POWER(10,RC[-2]/10)-POWER(10,RC[-1]/10))"><Data
+      ss:Type="Number">47.253409893408985</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="9点法声功率计算">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="22" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="64.5"/>
+   <Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="57.75"/>
+   <Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="44.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="81"/>
+   <Column ss:AutoFitWidth="0" ss:Width="65.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="59.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="117.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625"/>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:Index="2" ss:StyleID="s132"><Data ss:Type="String">W（M）</Data></Cell>
+    <Cell ss:StyleID="s132"><Data ss:Type="String">D（M）</Data></Cell>
+    <Cell ss:StyleID="s132"><Data ss:Type="String">H（M）</Data></Cell>
+    <Cell ss:StyleID="s133"><Data ss:Type="String">包络面积（M2）</Data></Cell>
+    <Cell ss:StyleID="s134"><Data ss:Type="String">差值（dBA）</Data></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s135"><Data ss:Type="String">背景噪声(dBA)</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">26.5</Data></Cell>
+    <Cell ss:Index="11" ss:MergeDown="1" ss:StyleID="m637194936"><Data
+      ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s138"><Data ss:Type="Number">0.442</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入设备宽度</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s138"><Data ss:Type="Number">0.42899999999999999</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入设备深度</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s263"><Data ss:Type="Number">0.129</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;深入设备高度</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s139"
+     ss:Formula="=(RC[-3]+2)*(RC[-2]+2)+2*(RC[-3]+2)*(RC[-1]+1)+2*(RC[-2]+2)*(RC[-1]+1)"><Data
+      ss:Type="Number">16.930336</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;计算得到包罗面积</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s140" ss:Formula="=10*LOG10(RC[-1])"><Data ss:Type="Number">12.286655772169041</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;计算得到声功率与声压级之间的差值</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s136"><Data ss:Type="String">风扇叶片数</Data></Cell>
+    <Cell ss:StyleID="s141"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="7" ss:StyleID="m637194956"><Data
+      ss:Type="String">输入待测设备的宽、深、高和风扇叶片数，输出声功率级与声压级的差值</Data></Cell>
+    <Cell ss:Index="11" ss:StyleID="s64"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s37"/>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s37"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell ss:StyleID="s38"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:StyleID="s36"/>
+    <Cell ss:Index="11" ss:StyleID="s65"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s130"><Data ss:Type="String">平均声压级及平均声功率计算</Data></Cell>
+    <Cell ss:StyleID="s129"/>
+    <Cell ss:StyleID="s131"/>
+    <Cell ss:MergeAcross="3" ss:StyleID="m637199876"><Data ss:Type="String">灰色区域输入数据</Data></Cell>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:Index="11" ss:StyleID="s66"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s142"><Data ss:Type="String">布点序号</Data></Cell>
+    <Cell ss:StyleID="s142"><Data ss:Type="String">工况1</Data></Cell>
+    <Cell ss:StyleID="s40"/>
+    <Cell ss:StyleID="s41"/>
+    <Cell ss:StyleID="s41"/>
+    <Cell ss:StyleID="s41"/>
+    <Cell ss:StyleID="s41"/>
+    <Cell ss:StyleID="s41"/>
+    <Cell ss:Index="11" ss:StyleID="s211"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">49.283000000000001</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">1</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeAcross="1" ss:MergeDown="8" ss:StyleID="m637199896"><Data
+      ss:Type="String">输入待测设备周围9个点的声压值</Data></Cell>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s47"/>
+    <Cell ss:MergeAcross="2" ss:MergeDown="8" ss:StyleID="m637199916"><Data
+      ss:Type="String">NOTE：&#10;&#10;1）根据测试频谱离散峰值和风扇叶片数，反推风扇实际转速，以标定工况；&#10;理论公式：&#10;&#10;&#10;&#10;2）背景噪声的影响，可参照理论公式修正：</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">52.04</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">2</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">52.174999999999997</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">3</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">60.45</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">4</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">56.158999999999999</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">5</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">54.774000000000001</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">6</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">50.034999999999997</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">7</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">50.372999999999998</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">8</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s42"/>
+    <Cell ss:StyleID="s42"/>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">53.418999999999997</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入测试点</Font><Font html:Face="Tahoma"
+        x:Family="Swiss" html:Size="9" html:Color="#000000">9</Font><Font
+        html:Size="9" html:Color="#000000">的声压级测试值</Font></ss:Data></Comment></Cell>
+    <Cell ss:Index="6" ss:StyleID="s49"/>
+    <Cell ss:StyleID="s49"/>
+    <Cell ss:StyleID="s50"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="String">平均声压</Data></Cell>
+    <Cell ss:StyleID="s146"
+     ss:Formula="=10*LOG10((10^(0.1*R[-9]C)+10^(0.1*R[-8]C)+10^(0.1*R[-7]C)+10^(0.1*R[-6]C)+10^(0.1*R[-5]C)+10^(0.1*R[-4]C)+10^(0.1*R[-3]C)+10^(0.1*R[-2]C)+10^(0.1*R[-1]C))/9)"><Data
+      ss:Type="Number">54.708963336172047</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;计算得到平均声压级</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s634"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#0000FF">输出待测设备周围9个点的平均声压值</Font></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s648"><Data ss:Type="String">考虑背景噪声的修正值</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="String">声功率</Data></Cell>
+    <Cell ss:StyleID="s146" ss:Formula="=R[-1]C+R[-15]C[3]"><Data ss:Type="Number">66.995619108341089</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;计算得到声功率级</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s144"/>
+    <Cell ss:StyleID="s145"/>
+    <Cell ss:StyleID="s145"/>
+    <Cell ss:StyleID="s145"/>
+    <Cell ss:StyleID="s145"/>
+    <Cell ss:MergeAcross="1" ss:StyleID="s648"><Data ss:Type="String">平均声压</Data></Cell>
+    <Cell ss:StyleID="s205"
+     ss:Formula="=10*LOG(10^(R[-1]C[-8]/10)-10^(R[-16]C[-2]/10))"><Data
+      ss:Type="Number">54.70239861669927</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="String">宣称声功率</Data></Cell>
+    <Cell ss:StyleID="s147" ss:Formula="=R[-1]C+3"><Data ss:Type="Number">69.995619108341089</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;计算得到宣称声功率</Font></ss:Data></Comment></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s634"><Data ss:Type="String">输出待测设备的宣称声功率值</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s648"><Data ss:Type="String">声功率</Data></Cell>
+    <Cell ss:StyleID="s205" ss:Formula="=R[-1]C+R[-16]C[-5]"><Data ss:Type="Number">66.989054388868311</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="String">基频频率</Data></Cell>
+    <Cell ss:StyleID="s143"><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s634"><Data ss:Type="String">输入实测基频频率值</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s648"><Data ss:Type="String">宣称声功率</Data></Cell>
+    <Cell ss:StyleID="s259" ss:Formula="=R[-1]C+3"><Data ss:Type="Number">69.989054388868311</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s136"><Data ss:Type="String">转速</Data></Cell>
+    <Cell ss:StyleID="s148" ss:Formula="=R[-1]C*60/R[-18]C[6]"><Data
+      ss:Type="Number">4285.7142857142853</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s634"><Data ss:Type="String">输出当前噪声对应实际转速值</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s74"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="9" ss:StyleID="s74"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>200</HorizontalResolution>
+    <VerticalResolution>200</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>15</ActiveRow>
+     <ActiveCol>12</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="半自由场声压级衰减估算">
+  <Table ss:ExpandedColumnCount="17" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s18" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="30.75"/>
+   <Column ss:Index="3" ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="162"/>
+   <Column ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="39.75" ss:Span="1"/>
+   <Column ss:Index="14" ss:StyleID="s18" ss:Width="57.75"/>
+   <Column ss:Index="17" ss:StyleID="s18" ss:AutoFitWidth="0" ss:Width="116.25"/>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375"/>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="m637200204"><Data
+      ss:Type="String">半自由场点声源噪声衰减计算</Data></Cell>
+    <Cell ss:StyleID="s155"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s156"/>
+    <Cell ss:StyleID="s157"/>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s158"><Data ss:Type="String">序号</Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">名   称</Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">符号</Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">单位</Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">结果</Data></Cell>
+    <Cell ss:StyleID="s159"/>
+    <Cell ss:MergeDown="1" ss:StyleID="s653"/>
+    <Cell ss:StyleID="s160"><Data ss:Type="String">r0</Data></Cell>
+    <Cell ss:StyleID="s161"><Data ss:Type="String">L(r0)</Data></Cell>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s163"/>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s164"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s165"><Data ss:Type="String">基准点r0处的声压级(已知值)</Data></Cell>
+    <Cell ss:StyleID="s158"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">L(r</Font><Sub><Font
+        html:Color="#000000">0</Font></Sub><Font html:Color="#000000">)</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s166"><Data ss:Type="String">dB</Data></Cell>
+    <Cell ss:StyleID="s170"><Data ss:Type="Number">30.7</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入基准点已知声压值</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s159"/>
+    <Cell ss:Index="9" ss:StyleID="s162"/>
+    <Cell ss:StyleID="s168"><Data ss:Type="String">r</Data></Cell>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s169"><Data ss:Type="String">L(r)</Data></Cell>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s162"/>
+    <Cell ss:StyleID="s163"/>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s164"/>
+    <Cell ss:StyleID="s165"><Data ss:Type="String">基准点与声源的距离</Data></Cell>
+    <Cell ss:StyleID="s158"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">r</Font><Sub><Font
+        html:Color="#000000">0</Font></Sub></ss:Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">m</Data></Cell>
+    <Cell ss:StyleID="s170"><Data ss:Type="Number">1</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;输入基准点与声源的距离</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s171"/>
+    <Cell ss:StyleID="s172"/>
+    <Cell ss:StyleID="s172"/>
+    <Cell ss:StyleID="s172"/>
+    <Cell ss:StyleID="s172"/>
+    <Cell ss:StyleID="s172"/>
+    <Cell ss:StyleID="s172"/>
+    <Cell ss:StyleID="s172"/>
+    <Cell ss:StyleID="s173"/>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s164"/>
+    <Cell ss:StyleID="s165"><Data ss:Type="String">预测点与声源的距离</Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">r</Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">m</Data></Cell>
+    <Cell ss:StyleID="s167"><Data ss:Type="Number">0.05</Data><Comment
+      ss:Author="作者"><ss:Data xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+         html:Size="9" html:Color="#000000">作者:</Font></B><Font html:Size="9"
+        html:Color="#000000">&#10;输入预测点与声源点的距离</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s137"><Data ss:Type="Number">1.73</Data></Cell>
+    <Cell ss:StyleID="s46"/>
+    <Cell ss:StyleID="s212"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s164"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s165"><Data ss:Type="String">预测点r处的声压级（预估值）</Data></Cell>
+    <Cell ss:StyleID="s158"><Data ss:Type="String">L（r）</Data></Cell>
+    <Cell ss:StyleID="s166"><Data ss:Type="String">dB</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C-20*LOG10(R[-1]C/R[-2]C)+1),(R[-3]C-20*LOG10(R[-1]C/R[-2]C)+2))))"><Data
+      ss:Type="Number">57.720599913279628</Data><Comment ss:Author="作者"><ss:Data
+       xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="9"
+         html:Color="#000000">作者:</Font></B><Font html:Size="9" html:Color="#000000">&#10;计算得到的预测点处的声压级</Font></ss:Data></Comment></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-1]-20*LOG10(R[-1]C/R[-2]C[-1])+1),(R[-3]C[-1]-20*LOG10(R[-1]C/R[-2]C[-1])+2))))"><Data
+      ss:Type="Number">23.157574905606751</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-2]-20*LOG10(R[-1]C/R[-2]C[-2])+1),(R[-3]C[-2]-20*LOG10(R[-1]C/R[-2]C[-2])+2))))"><Data
+      ss:Type="Number">20.658800173440753</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-3]-20*LOG10(R[-1]C/R[-2]C[-3])+1),(R[-3]C[-3]-20*LOG10(R[-1]C/R[-2]C[-3])+2))))"><Data
+      ss:Type="Number">18.720599913279621</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-4]-20*LOG10(R[-1]C/R[-2]C[-4])+1),(R[-3]C[-4]-20*LOG10(R[-1]C/R[-2]C[-4])+2))))"><Data
+      ss:Type="Number">14.638200260161128</Data></Cell>
+    <Cell ss:StyleID="s174"
+     ss:Formula="=IF(R[-1]C=0,0,(IF(R[-1]C&lt;3,(R[-3]C[-5]-20*LOG10(R[-1]C/R[-2]C[-5])+1),(R[-3]C[-5]-20*LOG10(R[-1]C/R[-2]C[-5])+2))))"><Data
+      ss:Type="Number">12.7</Data></Cell>
+    <Cell ss:StyleID="s174"
