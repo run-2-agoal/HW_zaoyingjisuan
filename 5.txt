@@ -1,0 +1,1000 @@
+  <Style ss:ID="s205">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s206">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s207" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s208" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s209" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s210" ss:Parent="s17">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134"/>
+  </Style>
+  <Style ss:ID="s211">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s212">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s213">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s214" ss:Parent="s17">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s215" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s216" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s217" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s218" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s219" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s220" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s221" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s222" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s223" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s224" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s225" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s226" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s227" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s228" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s229" ss:Parent="s18">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s230" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s231" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s232" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s233" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s234">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s235">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s236">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s237">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s238">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s239">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s240">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s241">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s242">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s243">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s244">
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s245">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s246">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s247">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s248">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="黑体" x:CharSet="134" x:Family="Modern" ss:Size="11"
+    ss:Color="#FF00FF"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s249" ss:Parent="s19">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s250">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s251">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s252">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s253">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12" ss:Color="#0000FF"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s254">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s255">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s256">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s257">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s258">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="12" ss:Color="#FF0000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s259">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s260" ss:Parent="s17">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0_ "/>
+  </Style>
+  <Style ss:ID="s261">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s262">
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s263">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.000_);[Red]\(0.000\)"/>
+  </Style>
+  <Style ss:ID="s536" ss:Parent="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s540" ss:Parent="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s550" ss:Parent="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s554" ss:Parent="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s566">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s591" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s634">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s648">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s653">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s674" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s681" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s682" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s722" ss:Parent="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s726" ss:Parent="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s727" ss:Parent="s20">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s766" ss:Parent="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s773" ss:Parent="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s779" ss:Parent="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s806" ss:Parent="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="FrutigerNext LT Regular" x:Family="Swiss" ss:Size="12"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="版本说明">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s19" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:Index="2" ss:StyleID="s19" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:StyleID="s19" ss:AutoFitWidth="0" ss:Width="63"/>
+   <Column ss:Index="5" ss:StyleID="s19" ss:AutoFitWidth="0" ss:Width="66"/>
+   <Column ss:StyleID="s19" ss:AutoFitWidth="0" ss:Width="134.25"/>
+   <Column ss:StyleID="s19" ss:AutoFitWidth="0" ss:Width="44.25"/>
+   <Column ss:StyleID="s19" ss:AutoFitWidth="0" ss:Width="120"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="m637198216"><Data
+      ss:Type="String">版本说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s58"><Data ss:Type="String">No</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">Date</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">Version</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">Author</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="String">Comments</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s58"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s60"><Data ss:Type="DateTime">2013-09-12T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">韩雪峰</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="String">First Draft</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s58"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s60"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s58"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s60"/>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s61"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s58"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+    <Cell ss:StyleID="s58"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="4" ss:StyleID="m637198256"><Data
+      ss:Type="String">目录</Data></Cell>
+    <Cell ss:Index="8" ss:MergeDown="1" ss:StyleID="m637198236"><Data
+      ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s550" ss:HRef="#计算流程说明!A1"><Data
+      ss:Type="String">计算流程说明</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637198316"><Data ss:Type="String">——功能及使用方法简介</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s540" ss:HRef="#系统噪声评估!A1"><Data
+      ss:Type="String">系统噪声评估</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637198336"><Data ss:Type="String">——由风扇方案和风扇噪声预估系统噪声</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s64"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s540" ss:HRef="#风扇调速噪声计算!A1"><Data
+      ss:Type="String">风扇调速噪声计算</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637198892"><Data ss:Type="String">——由风扇某转速噪声预估任意转速噪声</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s65"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s540" ss:HRef="#噪声叠加计算!A1"><Data
+      ss:Type="String">噪声叠加计算</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637198932"><Data ss:Type="String">——由单个声源预估多个声源叠加噪声</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s66"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s540" ss:HRef="#'9点法声功率计算'!A1"><Data
+      ss:Type="String">9点法声功率计算</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637198972"><Data ss:Type="String">——由9点法测试声压推算系统声功率</Data></Cell>
+    <Cell ss:Index="8" ss:StyleID="s67"><Data ss:Type="String">红色部分：参考输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s540" ss:HRef="#声压级衰减估算!A1"><Data
+      ss:Type="String">声压级衰减估算</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637200900"><Data ss:Type="String">——估算点声源在半自由场下声压级随距离的衰减</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s540" ss:HRef="#隔声量估算!A1"><Data
+      ss:Type="String">隔声量估算</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637200940"><Data ss:Type="String">——由材料密度、厚度估算单层均质平板隔声量</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s540" ss:HRef="#降噪模块吸声估算!A1"><Data
+      ss:Type="String">降噪模块消声估算</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637200980"><Data ss:Type="String">——由降噪模块尺寸设计估算消声量和附加阻力</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:MergeAcross="1" ss:StyleID="s536" ss:HRef="#'附；吸声材料系数查询'!A1"><Data
+      ss:Type="String">附录</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="m637200860"><Data ss:Type="String">——查询典型吸声材料的吸声系数</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51181102362204722" x:Data="&amp;L&amp;C&amp;F&amp;R文档密级"/>
+    <Footer x:Margin="0.51181102362204722"
+     x:Data="&amp;L&amp;D&amp;C华为保密信息,未经授权禁止扩散&amp;R第&amp;P页，共&amp;N页"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0.74803149606299213"
+     x:Right="0.74803149606299213" x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>16</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="计算流程说明">
+  <Table ss:ExpandedColumnCount="21" ss:ExpandedRowCount="22" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s17" ss:DefaultColumnWidth="54"
+   ss:DefaultRowHeight="14.25">
+   <Column ss:Index="10" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="37.5"/>
+   <Column ss:Index="16" ss:StyleID="s17" ss:AutoFitWidth="0" ss:Width="126"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:MergeAcross="9" ss:MergeDown="20" ss:StyleID="s554"><Data
+      ss:Type="String">&#10;     系统噪声评估</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:MergeDown="20" ss:StyleID="m637194300"><Data
+      ss:Type="String">&#10;其他噪声相关计算</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m637194320"><Data ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell ss:Index="16" ss:StyleID="s203"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="16" ss:StyleID="s204"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="16" ss:StyleID="s234"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="16" ss:StyleID="s235"><Data ss:Type="String">红色部分：参考输入</Data></Cell>
+   </Row>
+   <Row ss:Index="22" ss:AutoFitHeight="0" ss:Height="57.75">
+    <Cell ss:MergeAcross="14" ss:StyleID="s566"><Data ss:Type="String">说明：1）上图紫色字体标出的是各计算功能对应的模块，分别列于后面的表格中；&#10;      2）系统不同架构对系统噪声的影响目前尚未研究确定，暂未包含在计算功能里，待将来补充；&#10;      3）详细设计中噪声的影响因素，参见每双周发布的《通信设备噪声控制案例展播》。</Data></Cell>
+    <Cell ss:StyleID="s236"/>
+    <Cell ss:StyleID="s237"/>
+    <Cell ss:StyleID="s237"/>
+    <Cell ss:StyleID="s237"/>
+    <Cell ss:StyleID="s237"/>
+    <Cell ss:StyleID="s206"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.51181102362204722" x:Data="&amp;L&amp;C&amp;F&amp;R文档密级"/>
+    <Footer x:Margin="0.51181102362204722"
+     x:Data="&amp;L&amp;D&amp;C华为保密信息,未经授权禁止扩散&amp;R第&amp;P页，共&amp;N页"/>
+    <PageMargins x:Bottom="0.98425196850393704" x:Left="0.74803149606299213"
+     x:Right="0.74803149606299213" x:Top="0.98425196850393704"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>36</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="系统噪声评估">
+  <Table ss:ExpandedColumnCount="16" ss:ExpandedRowCount="24" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="13.5">
+   <Column ss:AutoFitWidth="0" ss:Width="57"/>
+   <Column ss:AutoFitWidth="0" ss:Width="147"/>
+   <Column ss:AutoFitWidth="0" ss:Width="60"/>
+   <Column ss:AutoFitWidth="0" ss:Width="123.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="61.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="147.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="60"/>
+   <Column ss:AutoFitWidth="0" ss:Width="123.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="72.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="47.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="117"/>
+   <Column ss:AutoFitWidth="0" ss:Width="93.75" ss:Span="4"/>
+   <Row ss:AutoFitHeight="0"/>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="7" ss:StyleID="m637193296"><Data
+      ss:Type="String">系统噪声估算（1）——输入风扇背压下调速声压级，输出系统声功率</Data></Cell>
+    <Cell ss:Index="11" ss:StyleID="s249"><Data ss:Type="String">工具使用说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">单风扇1背压下调速声压级</Data></Cell>
+    <Cell ss:StyleID="s246"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">风扇1数量</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">单风扇2背压下调速声压级</Data></Cell>
+    <Cell ss:StyleID="s246"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇2数量</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="11" ss:StyleID="s203"><Data ss:Type="String">无色部分：表头、说明</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.0625">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">风扇1背压下叠加声压级</Data></Cell>
+    <Cell ss:StyleID="s242" ss:Formula="=10*LOG10(R[-1]C[2])+R[-1]C"><Data
+      ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇1背压下叠加声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=RC[-2]+13"><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="String">风扇2背压下叠加声压级</Data></Cell>
+    <Cell ss:StyleID="s242" ss:Formula="=10*LOG10(R[-1]C[2])+R[-1]C"><Data
+      ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s238"><Data ss:Type="String">风扇2背压下叠加声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=RC[-2]+13"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s34"/>
+    <Cell ss:StyleID="s204"><Data ss:Type="String">绿色部分：手动输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">风扇1风扇框再生噪声</Data></Cell>
+    <Cell ss:StyleID="s243"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇框1系统再生噪声</Data></Cell>
+    <Cell ss:StyleID="s244"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇2风扇框再生噪声</Data></Cell>
+    <Cell ss:StyleID="s245"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇框2系统再生噪声</Data></Cell>
+    <Cell ss:StyleID="s243"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s34"/>
+    <Cell ss:StyleID="s234"><Data ss:Type="String">黄色部分：自动计算</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s239"><Data ss:Type="String">风扇框1系统声功率</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=R[-2]C[2]+R[-1]C+R[-1]C[2]"><Data
+      ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s239"><Data ss:Type="String">风扇框2系统声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=R[-2]C[4]+R[-1]C[2]+R[-1]C[4]"><Data
+      ss:Type="Number">58</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">系统声功率</Data></Cell>
+    <Cell ss:StyleID="s240"
+     ss:Formula="=10*LOG10(POWER(10,0.1*RC[-4])+POWER(10,0.1*RC[-2]))"><Data
+      ss:Type="Number">62.1244260279434</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">宣称声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=RC[-2]+3"><Data ss:Type="Number">65.1244260279434</Data></Cell>
+    <Cell ss:StyleID="s34"/>
+    <Cell ss:StyleID="s235"><Data ss:Type="String">红色部分：参考输入</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="7" ss:MergeDown="2" ss:StyleID="m637193316"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Color="#000000">NOTE：&#10;（1）系统噪声评估，强烈推荐使用风扇在系统工作点对应背压下的噪声值，因绝大多数风扇在不同背压下噪声差异很大（甚至多达10dBA以上）；&#10;（2）风扇2的设定是为系统这两种情况下做估算使用：①同一种风扇分区调速，②系统选用了两种风扇，当不需要该功能时，设风扇2声压级为0即可；&#10;（3）在没有条件测试风扇声功率的情况下，从风扇声压级推算到风扇声功率，按照经验值设定，风扇声功率Lw=风扇声压级+12；&#10;（4）风扇框再生噪声和系统再生噪声的设定，与架构、结构、流场详细设计相关，准确数值需具体产品数据积累提供，做初步估算时，可按如下范围选定；&#10;</Font><B><Font
+        html:Color="#FF0000">推荐输入范围：风扇框再生噪声1—5dBA，系统再生噪声2—6dBA</Font></B></ss:Data></Cell>
+    <Cell ss:StyleID="s34"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27.75">
+    <Cell ss:Index="10" ss:StyleID="s34"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="31.5">
+    <Cell ss:Index="10" ss:StyleID="s248"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25">
+    <Cell ss:Index="7" ss:StyleID="s34"/>
+    <Cell ss:StyleID="s34"/>
+    <Cell ss:StyleID="s248"/>
+    <Cell ss:StyleID="s248"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:MergeAcross="7" ss:StyleID="m637193336"><Data
+      ss:Type="String">系统噪声估算（2）——输入风扇背压下某转速声压级，输出风扇各转速下系统声功率</Data></Cell>
+    <Cell ss:StyleID="s248"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s250"><Data ss:Type="String">单风扇1背压下某转速声压级</Data></Cell>
+    <Cell ss:StyleID="s252"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">风扇转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">8000</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">单风扇2背压下某转速声压级</Data></Cell>
+    <Cell ss:StyleID="s252"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">风扇转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s248"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s250"><Data ss:Type="String">常温调速后风扇1转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">6000</Data></Cell>
+    <Cell ss:StyleID="s154"><Data ss:Type="String">风扇1数量</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s250"><Data ss:Type="String">常温调速后风扇2转速</Data></Cell>
+    <Cell ss:StyleID="s251"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇2数量</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s248"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">单风扇1背压下调速声压级</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=R[-2]C+50*LOG10(R[-1]C/R[-2]C[2])"><Data
+      ss:Type="Number">18.753063169585005</Data></Cell>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">单风扇2背压下调速声压级</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=R[-2]C+50*LOG10(R[-1]C/R[-2]C[2])"><Data
+      ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s248"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">风扇1背压下叠加声压级</Data></Cell>
+    <Cell ss:StyleID="s240" ss:Formula="=10*LOG10(R[-2]C[2])+R[-1]C"><Data
+      ss:Type="Number">34.316088177257882</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇1背压下叠加声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=RC[-2]+13"><Data ss:Type="Number">47.316088177257882</Data></Cell>
+    <Cell><Data ss:Type="String">风扇2背压下叠加声压级</Data></Cell>
+    <Cell ss:StyleID="s242" ss:Formula="=10*LOG10(R[-2]C[2])+R[-1]C"><Data
+      ss:Type="Number">3.0102999566398121</Data></Cell>
+    <Cell ss:StyleID="s238"><Data ss:Type="String">风扇2背压下叠加声功率</Data></Cell>
+    <Cell ss:StyleID="s241" ss:Formula="=RC[-2]+13"><Data ss:Type="Number">16.010299956639813</Data></Cell>
+    <Cell ss:StyleID="s248"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:Index="2" ss:StyleID="s35"><Data ss:Type="String">风扇1风扇框再生噪声</Data></Cell>
+    <Cell ss:StyleID="s243"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇框1系统再生噪声</Data></Cell>
+    <Cell ss:StyleID="s244"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇2风扇框再生噪声</Data></Cell>
+    <Cell ss:StyleID="s245"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s35"><Data ss:Type="String">风扇框2系统再生噪声</Data></Cell>
+    <Cell ss:StyleID="s243"><Data ss:Type="Number">3</Data></Cell>
