@@ -1,0 +1,1000 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-13T11:21:51Z</Created>
+  <LastSaved>2022-03-30T09:04:17Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <_ms_pID_725343 dt:dt="string">(4)HGgut1Kt49B4xKUKl514NgpclA4T1x9WOYNwZk0OIfgUEupoIkqWaw+y1lriwUF9Ys17aNLk&#10;WUp8tUuq0PIfexEXnXW5kCVbY4rMDE0Fkz6wDkm6ugD3miDWHR6I0VgPnGzVAp2vrT1Amc9L&#10;t4r5VwJUZx/jV2rjNlNNbAwbbeZUBFfzhAIOky2eBMwqWqs1aebnJP+Y0MT0MkZQYb8s4Mmi&#10;s8nc8xSNUbOi7zl4/1</_ms_pID_725343>
+  <_ms_pID_7253431 dt:dt="string">noWec6KGrloADFewRfRasNEaB9QiOo1siomVSwG7IycNP1xmZpWFrN&#10;T/qhUo/dGurtobIg+gTUzWI4npDlaIh/UPNee0C9UjNeXFY2D2QEm0KOrDjVVmT/4aC/uBvV&#10;fUv9UyhZTiqp1yFJKhTNLaPKLp+EhhITid2zmdklD46PiMjKSZCn3b++6+sI2t5yP5Cvx1bb&#10;OJydVw0IL4pSxm7mct8D5tUOLkbfnRMmuq+z</_ms_pID_7253431>
+  <_ms_pID_7253432 dt:dt="string">IbOdZEhsaqa496jXJdroCL0yVr0IaBkZkCJb&#10;oIuJSNGDz7VGkdOERJdbVblv//uOSwmxsHPXELn/VRrUkT0q9IDevG4Yywg/eCnKrD5OuoH8&#10;TovzuRGygsnAsNcC5PNkQ4hJlXbEdY302TnxgNraYZicgK0yzautiMFAAHjkRoiq7tGLDNvf&#10;mx8hknxVxyFVZz5sDOXkJxx6Nui+8n3RsPqlqjmz9GZ28SejiDDP4G</_ms_pID_7253432>
+  <_ms_pID_7253433 dt:dt="string">4OS34dBw4ARzxsBKdX&#10;3ftj9l3/dtg2M8QKzBm1aygOHVO9w2tSrX/ZnJZz2gKRgWOr</_ms_pID_7253433>
+  <_new_ms_pID_72543 dt:dt="string">(3)X8PJ0KA5MQTqIiPL+D1NkD8JU8BzS7I50dSFPRY69KtXuW+VyznuSaHaTw9EH786m4L3+KHj&#10;gu7TskyMqZ3x9v+KWPKccdhxP1PCEBys8hastBM1PVLCQAXJyxwflj8NcWd7jY6p8aH8glIW&#10;v25A141YLsAsa2yUNTBAsnEL5odNegYnBUg6f4D2HbRl84pISePwwtsvczOXGzn/fDG5W8LC&#10;A0FIQzgyfhDWwQm90f</_new_ms_pID_72543>
+  <_new_ms_pID_725431 dt:dt="string">qvENxQF13biA0O09KuZSZxnIX7mJE5m9fmrC1azLhQVeOxQrWe8Eba&#10;UkhU7AXmWQoJYuole2OOYI3jXaq3+XoEdzR6vNpyOWGQe1l4xgCfAr9fGUlSxqdXrP9Tihir&#10;cSrNZz+oEx12eG7MeavzWYEy8nr8PwkRVwoVC0m/PhP+MqvsYUFtmv+pxAAb5pBHfZDJIqX9&#10;Hns2vput/N7ystioaplfWxUdL51hZItC78nC</_new_ms_pID_725431>
+  <_new_ms_pID_725432 dt:dt="string">KviUK3ct5z8wpxptx3V5edDFb1r/Nf1CMkL0&#10;UtFNUvYKarHeh+mA7h7+c1vhzSm/y0uyd8TK3OH29QAi2okxlDpvyo6Qclw4eVXrhGJoTy1J&#10;</_new_ms_pID_725432>
+  <_2015_ms_pID_725343 dt:dt="string">(3)nXErDgFvTM85v7U891ka19DOfkRs6t8L9N1qcz6lOOc53Cb+Y7Nec1ctuZvZMLA+GeaycaFC&#10;fHo1iCBNyGzeCulOKHOuImLZUcNRqcsWKAv3l2WVzDLH47r/nqRCovOPxH8McOY/CUlluc9B&#10;6fW59W95WKLIgXjhixfCtq18W9IKzXYrrWAvBjJCEjToKCF5diW3Ke/wXmdVfeoA/2b+hkQo&#10;dBregHKMgYVAyQGulv</_2015_ms_pID_725343>
+  <_2015_ms_pID_7253431 dt:dt="string">QW9V1S1Hr3kXQYZWPE7ebO60lvDcwWOuAc3aYRQ9kfK170hUsONwdR&#10;woy4qBgkIecmq/QXrADKq1J0q8IYIpb4OfaUCcL6K+hcTGETX2ALHAT6O9qYe20YCBp4TRPI&#10;LoS/qaFol2WmK6dOZod5WxFs+jPVoqp8hEewAIn7+ZGxa5i8P/5+3hwWg8dNrhXglPGLKU8G&#10;fdDsRINtWY1s5W9iokB/YMW8ts/+W0VlCe2Q</_2015_ms_pID_7253431>
+  <_2015_ms_pID_7253432 dt:dt="string">MtRTh2wCBCNc2ctsXqLSOw+xkUxgvmjjO67N&#10;h4O3KyhRa2v8KfcHC7EhTfwEWdOTm59N4bN58VP5o2xzNm7LrOI=</_2015_ms_pID_7253432>
+  <_readonly dt:dt="string"></_readonly>
+  <_change dt:dt="string"></_change>
+  <_full-control dt:dt="string"></_full-control>
+  <sflag dt:dt="string">1695175047</sflag>
+ </CustomDocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\Carman V1R1\01Carman\14材料收集\【刘广平】吸声材料汇总.xls</Path>
+   <SheetName>分类</SheetName>
+   <SheetName>供应商</SheetName>
+   <SheetName>标准吸声系数</SheetName>
+   <SheetName>微穿孔板</SheetName>
+   <SheetName>吸声系数</SheetName>
+   <SheetName>系数换算表</SheetName>
+   <SheetName>工业领域噪声应用技术</SheetName>
+   <SheetName>Sheet1</SheetName>
+   <Xct>
+    <Count>39</Count>
+    <SheetIndex>2</SheetIndex>
+    <Crn>
+     <Row>1</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>125</Number>
+     <Number>250</Number>
+     <Number>500</Number>
+     <Number>1000</Number>
+     <Number>2000</Number>
+     <Number>4000</Number>
+    </Crn>
+    <Crn>
+     <Row>2</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>7.0000000000000007E-2</Number>
+     <Number>0.14000000000000001</Number>
+     <Number>0.47</Number>
+     <Number>0.88</Number>
+     <Number>0.7</Number>
+     <Number>0.77</Number>
+    </Crn>
+    <Crn>
+     <Row>3</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.15</Number>
+     <Number>0.33</Number>
+     <Number>0.84</Number>
+     <Number>0.68</Number>
+     <Number>0.82</Number>
+     <Number>0.82</Number>
+    </Crn>
+    <Crn>
+     <Row>4</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.2</Number>
+     <Number>0.4</Number>
+     <Number>0.95</Number>
+     <Number>0.9</Number>
+     <Number>0.98</Number>
+     <Number>0.85</Number>
+    </Crn>
+    <Crn>
+     <Row>5</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>7.0000000000000007E-2</Number>
+     <Number>0.14000000000000001</Number>
+     <Number>0.47</Number>
+     <Number>0.88</Number>
+     <Number>0.7</Number>
+     <Number>0.77</Number>
+    </Crn>
+    <Crn>
+     <Row>7</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.15</Number>
+     <Number>0.35</Number>
+     <Number>0.84</Number>
+     <Number>0.68</Number>
+     <Number>0.82</Number>
+     <Number>0.82</Number>
+    </Crn>
+    <Crn>
+     <Row>8</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.11</Number>
+     <Number>0.25</Number>
+     <Number>0.52</Number>
+     <Number>0.87</Number>
+     <Number>0.77</Number>
+     <Number>0.81</Number>
+    </Crn>
+    <Crn>
+     <Row>9</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.2</Number>
+     <Number>0.4</Number>
+     <Number>0.95</Number>
+     <Number>0.9</Number>
+     <Number>0.98</Number>
+     <Number>0.85</Number>
+    </Crn>
+    <Crn>
+     <Row>16</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.05</Number>
+     <Number>0.1</Number>
+     <Number>0.19</Number>
+     <Number>0.31</Number>
+     <Number>0.38</Number>
+     <Number>0.44</Number>
+    </Crn>
+    <Crn>
+     <Row>17</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>7.0000000000000007E-2</Number>
+     <Number>0.13</Number>
+     <Number>0.28999999999999998</Number>
+     <Number>0.46</Number>
+     <Number>0.51</Number>
+     <Number>0.55000000000000004</Number>
+    </Crn>
+    <Crn>
+     <Row>18</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.11</Number>
+     <Number>0.22</Number>
+     <Number>0.55000000000000004</Number>
+     <Number>0.75</Number>
+     <Number>0.67</Number>
+     <Number>0.84</Number>
+    </Crn>
+    <Crn>
+     <Row>19</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.1</Number>
+     <Number>0.19</Number>
+     <Number>0.35</Number>
+     <Number>0.54</Number>
+     <Number>0.63</Number>
+     <Number>0.7</Number>
+    </Crn>
+    <Crn>
+     <Row>20</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.14000000000000001</Number>
+     <Number>0.25</Number>
+     <Number>0.51</Number>
+     <Number>0.72</Number>
+     <Number>0.77</Number>
+     <Number>0.8</Number>
+    </Crn>
+    <Crn>
+     <Row>21</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.21</Number>
+     <Number>0.41</Number>
+     <Number>0.8</Number>
+     <Number>0.94</Number>
+     <Number>0.9</Number>
+     <Number>1.01</Number>
+    </Crn>
+    <Crn>
+     <Row>22</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.11</Number>
+     <Number>0.13</Number>
+     <Number>0.27</Number>
+     <Number>0.69</Number>
+     <Number>0.98</Number>
+     <Number>0.79</Number>
+    </Crn>
+    <Crn>
+     <Row>31</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.03</Number>
+     <Number>0.06</Number>
+     <Number>0.13</Number>
+     <Number>0.24</Number>
+     <Number>0.55000000000000004</Number>
+     <Number>0.8</Number>
+    </Crn>
+    <Crn>
+     <Row>37</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.05</Number>
+     <Number>7.0000000000000007E-2</Number>
+     <Number>0.26</Number>
+     <Number>0.87</Number>
+     <Number>0.69</Number>
+     <Number>0.87</Number>
+    </Crn>
+    <Crn>
+     <Row>39</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.14000000000000001</Number>
+     <Number>0.3</Number>
+     <Number>0.63</Number>
+     <Number>0.91</Number>
+     <Number>0.98</Number>
+     <Number>0.91</Number>
+    </Crn>
+    <Crn>
+     <Row>41</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.08</Number>
+     <Number>0.15</Number>
+     <Number>0.3</Number>
+     <Number>0.52</Number>
+     <Number>0.56000000000000005</Number>
+     <Number>0.6</Number>
+    </Crn>
+    <Crn>
+     <Row>43</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.06</Number>
+     <Number>0.1</Number>
+     <Number>0.2</Number>
+     <Number>0.59</Number>
+     <Number>0.68</Number>
+     <Number>0.85</Number>
+    </Crn>
+    <Crn>
+     <Row>44</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.1</Number>
+     <Number>0.13</Number>
+     <Number>0.45</Number>
+     <Number>0.67</Number>
+     <Number>0.65</Number>
+     <Number>0.85</Number>
+    </Crn>
+    <Crn>
+     <Row>68</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.15</Number>
+     <Number>0.3</Number>
+     <Number>0.5</Number>
+     <Number>0.8</Number>
+     <Number>0.9</Number>
+     <Number>0.9</Number>
+    </Crn>
+    <Crn>
+     <Row>70</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.15</Number>
+     <Number>0.55000000000000004</Number>
+     <Number>0.9</Number>
+     <Number>0.9</Number>
+     <Number>0.91</Number>
+     <Number>0.9</Number>
+    </Crn>
+    <Crn>
+     <Row>79</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.1</Number>
+     <Number>0.33</Number>
+     <Number>0.28999999999999998</Number>
+     <Number>0.41</Number>
+     <Number>0.39</Number>
+     <Number>0.48</Number>
+    </Crn>
+    <Crn>
+     <Row>82</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.02</Number>
+     <Number>7.0000000000000007E-2</Number>
+     <Number>0.22</Number>
+     <Number>0.59</Number>
+     <Number>0.94</Number>
+     <Number>0.94</Number>
+    </Crn>
+    <Crn>
+     <Row>83</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.05</Number>
+     <Number>0.25</Number>
+     <Number>0.72</Number>
+     <Number>0.97</Number>
+     <Number>0.9</Number>
+     <Number>0.98</Number>
+    </Crn>
+    <Crn>
+     <Row>85</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>7.0000000000000007E-2</Number>
+     <Number>0.23</Number>
+     <Number>0.28000000000000003</Number>
+     <Number>0.83</Number>
+     <Number>0.88</Number>
+     <Number>0.8</Number>
+    </Crn>
+    <Crn>
+     <Row>87</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.04</Number>
+     <Number>0.12</Number>
+     <Number>0.26</Number>
+     <Number>0.56999999999999995</Number>
+     <Number>0.85</Number>
+     <Number>0.94</Number>
+    </Crn>
+    <Crn>
+     <Row>88</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.25</Number>
+     <Number>0.94</Number>
+     <Number>0.93</Number>
+     <Number>0.9</Number>
+     <Number>0.96</Number>
+     <Number>0.92</Number>
+    </Crn>
+    <Crn>
+     <Row>89</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.06</Number>
+     <Number>0.15</Number>
+     <Number>0.3</Number>
+     <Number>0.5</Number>
+     <Number>0.62</Number>
+     <Number>0.8</Number>
+    </Crn>
+    <Crn>
+     <Row>90</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.06</Number>
+     <Number>0.1</Number>
+     <Number>0.27</Number>
+     <Number>0.61</Number>
+     <Number>0.94</Number>
+     <Number>0.99</Number>
+    </Crn>
+    <Crn>
+     <Row>93</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.13</Number>
+     <Number>0.2</Number>
+     <Number>0.53</Number>
+     <Number>0.98</Number>
+     <Number>0.84</Number>
+     <Number>0.8</Number>
+    </Crn>
+    <Crn>
+     <Row>94</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.25</Number>
+     <Number>0.35</Number>
+     <Number>0.82</Number>
+     <Number>0.99</Number>
+     <Number>0.89</Number>
+     <Number>0.82</Number>
+    </Crn>
+    <Crn>
+     <Row>96</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.25</Number>
+     <Number>0.33</Number>
+     <Number>0.7</Number>
+     <Number>0.76</Number>
+     <Number>0.89</Number>
+     <Number>0.97</Number>
+    </Crn>
+    <Crn>
+     <Row>99</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.1</Number>
+     <Number>0.31</Number>
+     <Number>0.6</Number>
+     <Number>0.88</Number>
+     <Number>0.89</Number>
+     <Number>0.97</Number>
+    </Crn>
+    <Crn>
+     <Row>100</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>0.04</Number>
+     <Number>0.09</Number>
+     <Number>0.24</Number>
+     <Number>0.56999999999999995</Number>
+     <Number>0.93</Number>
+     <Number>0.97</Number>
+    </Crn>
+    <Crn>
+     <Row>121</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>125</Number>
+     <Number>250</Number>
+     <Number>500</Number>
+     <Number>1000</Number>
+     <Number>2000</Number>
+     <Number>4000</Number>
+    </Crn>
+    <Crn>
+     <Row>123</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>8</Number>
+     <Number>14</Number>
+     <Number>20</Number>
+     <Number>26</Number>
+     <Number>32</Number>
+     <Number>38</Number>
+    </Crn>
+    <Crn>
+     <Row>124</Row>
+     <ColFirst>5</ColFirst>
+     <ColLast>10</ColLast>
+     <Number>14</Number>
+     <Number>21</Number>
+     <Number>27</Number>
+     <Number>32</Number>
+     <Number>37</Number>
+     <Number>43</Number>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>6885</WindowHeight>
+  <WindowWidth>10590</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>90</WindowTopY>
+  <TabRatio>690</TabRatio>
+  <ActiveSheet>3</ActiveSheet>
+  <FirstVisibleSheet>2</FirstVisibleSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s17" ss:Name="常规 2">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s18" ss:Name="常规 3">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s19" ss:Name="常规 4">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s20" ss:Name="常规_sheet">
+   <Alignment ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="FrutigerNext LT Regular" x:Family="Swiss" ss:Size="12"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s21" ss:Name="超链接">
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="好">
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#006100"/>
+   <Interior ss:Color="#C6EFCE" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m637198216" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637198236" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637198256" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m637198316" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637198336" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637198892" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637198932" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637198972" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637200860" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637200900" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637200940" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637200980" ss:Parent="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637194300">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="m637194320" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637193296">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m637193316">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m637193336">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m637193356">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m637201168">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637201188">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637201208">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637201228" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637201268">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637201288" ss:Parent="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="m637194608" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637194628">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637194648">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637194668">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637194688">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="m637194708">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637194936" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637194956">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.00_);[Red]\(0.00\)"/>
+  </Style>
+  <Style ss:ID="m637199876">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="m637199896">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#0000FF"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="m637199916">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="DashDotDot" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="m637200204">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.00_);[Red]\(0.00\)"/>
+  </Style>
+  <Style ss:ID="m637200224" ss:Parent="s18">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637201496" ss:Parent="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134"/>
+  </Style>
+  <Style ss:ID="m637201516" ss:Parent="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134"/>
+  </Style>
+  <Style ss:ID="m637201536" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637201556" ss:Parent="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134"/>
+  </Style>
+  <Style ss:ID="m637201576" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637201596" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134"/>
+  </Style>
+  <Style ss:ID="m637179520" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="m637179540" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="宋体" x:CharSet="134" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="m637179560">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior/>
+  </Style>
+  <Style ss:ID="m637179580">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m637179600">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m637179620" ss:Parent="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
